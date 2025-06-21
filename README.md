@@ -1,12 +1,105 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Spotify 2.0 Clone - React 🎶
 
-Currently, two official plugins are available:
+A fully functional, modern, and beautifully designed Spotify 2.0 Clone Music Application developed using **React.js**. This project replicates core features of Spotify with enhanced UI and interactive functionalities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎵 **Trending Top Charts** — Browse the latest top trending tracks.
+- 🔍 **Search Functionality** — Search for any artist, song, or album in real-time.
+- 🎼 **Albums & Genres** — Explore trending albums and genre-based playlists.
+- ❤️ **Library Management** — Add or remove songs to your personal library.
+- ▶ **Modern Music Player** — Fully functional mini player with:
+  - Play / Pause
+  - Next / Previous
+  - Shuffle & Repeat
+  - Volume control
+  - Seekable timestamp controller
+- 🎛 **Queue System** — Manage song queue with sidebar access.
+- 🎬 **Full-Screen Player** — Premium full screen immersive music player.
+- 🌐 **Fully Responsive Design** — Smooth experience across all devices.
+- 🎨 **Modern Premium UI/UX** — Smooth animations, gradient effects, and dark mode.
+
+---
+
+## 🚀 Technologies Used
+
+- React.js (Vite)
+- React Router DOM
+- Tailwind CSS (for styling)
+- Axios (API requests)
+- RapidAPI (Shazam Core API integration)
+- Context API (State Management)
+- React Icons
+
+---
+
+## ⚙ Setup Instructions
+
+### 1️⃣ Clone this Repository
+
+```
+git clone https://github.com/Gautam2117/Spotify-2.0-clone-react.git
+cd Spotify-2.0-clone-react
+```
+
+### 2️⃣ Install Dependencies
+
+```
+npm install
+```
+
+### 3️⃣ Run the App
+
+```
+npm run dev
+```
+
+The app will be running at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+  ├── assets/
+  ├── components/
+  │     ├── FullScreenPlayer.jsx
+  │     ├── Loader.jsx
+  │     ├── MiniPlayer.jsx
+  │     ├── Navbar.jsx
+  │     ├── Player.jsx
+  │     └── QueueSidebar.jsx
+  ├── context/
+  │     ├── LibraryContext.jsx
+  │     └── PlayerContext.jsx
+  ├── pages/
+  │     ├── Albums.jsx
+  │     ├── Genres.jsx
+  │     ├── Home.jsx
+  │     ├── Library.jsx
+  │     ├── Search.jsx
+  │     └── SongDetails.jsx
+  ├── services/
+  │     └── shazam.js
+  ├── App.jsx
+  ├── App.css
+  └── main.jsx
+```
+
+---
+
+## 🎯 Future Enhancements
+
+- User Authentication (OAuth / Firebase)
+- Create & Save Custom Playlists
+- Lyrics Support
+- Recent History
+- Offline Mode
+
+---
+
+### Made with ❤️ by Gautam Govind
