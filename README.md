@@ -47,7 +47,7 @@ Browse through popular albums with stylish layouts and deep linking.
 ---
 
 ### 🎧 Genres  
-Discover music based on genres like Pop, Rock, EDM, Hip-Hop, and more.  
+Discover music based on genres like Pop, Rock, Hip-Hop, and more.  
 ![Genres](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Genres.png)
 
 ---
