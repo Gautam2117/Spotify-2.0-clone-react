@@ -1,5 +1,5 @@
 
-# Spotify 2.0 Clone - React 🎶
+# Spotify Clone - React 🎶
 
 A fully functional, modern, and beautifully designed Spotify 2.0 Clone Music Application developed using **React.js**. This project replicates core features of Spotify with enhanced UI and interactive functionalities.
 
@@ -21,6 +21,46 @@ A fully functional, modern, and beautifully designed Spotify 2.0 Clone Music App
 - 🎬 **Full-Screen Player** — Premium full screen immersive music player.
 - 🌐 **Fully Responsive Design** — Smooth experience across all devices.
 - 🎨 **Modern Premium UI/UX** — Smooth animations, gradient effects, and dark mode.
+
+---
+
+## 📸 Screenshots
+
+Experience the stunning and responsive UI of the Spotify 2.0 Clone 🎧
+
+### 🏠 Home Page  
+A curated dashboard with trending hits and quick access to albums and genres.  
+![Home](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Home.png)
+
+---
+
+### 🔍 Search Songs  
+Search across artists, songs, and albums with real-time results.  
+![Search](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Search_Songs.png)
+
+---
+
+### 🎼 Albums  
+Browse through popular albums with stylish layouts and deep linking.  
+![Albums](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Albums.png)
+
+---
+
+### 🎧 Genres  
+Discover music based on genres like Pop, Rock, EDM, Hip-Hop, and more.  
+![Genres](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Genres.png)
+
+---
+
+### ❤️ My Library  
+Easily manage your liked songs in a personalized library.  
+![Library](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Library.png)
+
+---
+
+### ▶ Music Player  
+Enjoy immersive playback with all controls, mini player, and full-screen experience.  
+![Player](https://github.com/Gautam2117/Spotify-2.0-clone-react/blob/master/Player.png)
 
 ---
 
