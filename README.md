@@ -26,7 +26,7 @@ A fully functional, modern, and beautifully designed Spotify 2.0 Clone Music App
 
 ## 📸 Screenshots
 
-Experience the stunning and responsive UI of the Spotify 2.0 Clone 🎧
+Experience the stunning and responsive UI of the Spotify Clone 🎧
 
 ### 🏠 Home Page  
 A curated dashboard with trending hits and quick access to albums and genres.  
